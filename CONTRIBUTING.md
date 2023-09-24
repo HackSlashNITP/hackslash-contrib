@@ -25,7 +25,7 @@ Here are some ways you can contribute to our projects:
 
 If you have questions or need assistance with your contributions, don't hesitate to reach out. You can:
 - Open an issue for clarification or guidance.
-- Join our [community chat](#) for real-time discussions and support.
+- Join our [community chat](https://discord.gg/wDRTnXNUCh) for real-time discussions and support.
 
 ## Licensing
 
