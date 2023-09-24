@@ -1,2 +1,3 @@
-# hackslash-contrib
-HackSlash's Contribution Guidelines
+# HackSlash Contribution Guidelines
+
+This repository holds information related to HackSlash's Contribution Guidelines.
